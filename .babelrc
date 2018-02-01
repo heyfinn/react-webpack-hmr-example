@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "react"
+  ],
+  "plugins": [
+    "transform-react-jsx"
+  ],
+  "env": {
+    "development": {
+      "plugins": ["react-hot-loader/babel"]
+    }
+  }
+}
